@@ -5,4 +5,4 @@ jobs:
     steps:
       - uses: actions/checkout@v6.0.2
       - name: Run Tests
-        run: cat track cloud
+        run: cat Gcamp_Cloud
